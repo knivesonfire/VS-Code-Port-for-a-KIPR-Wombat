@@ -1,4 +1,7 @@
-# Botball Code 2026
+# Botball Code 2026 
+
+Note: (after the 2026 summer) Under https://www.kipr.org/gcer/about-gcer/gcer-resources and under 2026 resources the paper "Modernizing robotics development by integrating Visual Studio Code and using SSH to deploy code to the KIPR wombat" has the explanation behind the code
+
 
 ### How to Use
 
